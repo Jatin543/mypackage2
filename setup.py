@@ -10,7 +10,7 @@ setuptools.setup(
      description="A Super Sayaian  package KAAAA__MAEEE--HAA__MAEE_HAAAAAA",
      long_description=long_description,
    long_description_content_type="text/markdown",
-     url="https://github.com/Jatin543/mypackage1",
+     url="https://github.com/Jatin543/mypackage2",
      packages=setuptools.find_packages(),
      classifiers=[
          "Programming Language :: Python :: 3",
