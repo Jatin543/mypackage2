@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
 setuptools.setup(
      name='goku',
      version='0.2.5',
-     scripts=['goku.py','__init__.py'] ,
+     scripts=['goku.py',] ,
      author="Jatin Pandey",
      author_email="jatinpandeywork@gmail.com",
      description="A Super Sayaian  package KAAAA__MAEEE--HAA__MAEE_HAAAAAA",
